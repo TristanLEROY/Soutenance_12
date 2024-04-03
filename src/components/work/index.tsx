@@ -29,20 +29,6 @@ export function Work() {
           linkGitHub='https://github.com/TristanLEROY/Soutenance_8'
           id='modalKasa'
         />
-        {/* <div className='card w-96 bg-base-100 shadow ease-in transform hover:scale-105 transition duration-250 cursor-pointer hover:shadow-xl'>
-          <figure>
-            <img src={Kasa} alt='Shoes' />
-          </figure>
-          <div className='card-body'>
-            <h2 className='card-title'>Kasa</h2>
-            <p>Site vitrine pour afficher des lieux de location de vacances.</p>
-            <div className='card-actions justify-end'>
-              <div className='badge badge-outline'>React</div>
-              <div className='badge badge-outline'>Tailwind</div>
-              <div className='badge badge-outline'>Pnpm</div>
-            </div>
-          </div>
-        </div> */}
       </div>
     </section>
   )
