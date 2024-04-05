@@ -15,8 +15,11 @@ export function Resume() {
             <h2 className='text-2xl font-bold'>Développeur Web Junior</h2>
             <p className='py-6'>
               Jeune développeur en reconversion, je cherche un poste dans une
-              entreprise en tant que dev front junior. Je suis à la recherche
-              d'une première expérience qui me permettra de faire mes preuves.
+              entreprise en tant que dev front junior. J'ai commencé à apprendre
+              à développer en React grâce à une reconversion via OpenClassrooms,
+              puis j'ai appris les bases de Vue et de TS en autodidacte. Motivé
+              et plein de ressource, je suis prêt à partir dans ma nouvelle
+              carrière.
             </p>
             <a
               href='https://github.com/TristanLEROY'

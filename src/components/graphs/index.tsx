@@ -11,7 +11,7 @@ export function Skill() {
         <div className='flex flex-col text-center '>
           <h3 className='text-2xl mb-8'>J'ai pu travailler avec :</h3>
           <ul className='flex flex-row justify-center gap-12 max-md:grid max-md:grid-cols-2'>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>Html</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -25,7 +25,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>CSS</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -39,7 +39,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>JavaScript</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -55,7 +55,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>React.js</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -76,7 +76,7 @@ export function Skill() {
                 </g>
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>Vue.js</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -90,7 +90,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>TypeScript</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -109,7 +109,7 @@ export function Skill() {
         <div className='flex flex-col text-center'>
           <h3 className='text-2xl mb-8'>Les outils que j'utilise :</h3>
           <ul className='flex flex-row justify-center gap-12 max-md:grid max-md:grid-cols-2'>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>npm/pnpm</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -123,7 +123,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>Tailwind</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -137,7 +137,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>Git</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -151,7 +151,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>GitHub</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -165,7 +165,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>Figma</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'
@@ -180,7 +180,7 @@ export function Skill() {
                 />
               </svg>
             </li>
-            <li className='place-self-center'>
+            <li className='place-self-center gap-2'>
               <p>Postman</p>
               <svg
                 xmlns='http://www.w3.org/2000/svg'

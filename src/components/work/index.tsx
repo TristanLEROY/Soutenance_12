@@ -14,7 +14,7 @@ export function Work() {
           img={Argent}
           alt='Site Argent Bank'
           title='Argent Bank'
-          cardText="Site pour la gestion d'information bancaire et de creation."
+          cardText="Site pour la gestion d'information bancaire et de modification d'information personnel."
           badges={['React', 'Tailwind', 'Pnpm', 'TypeScript']}
           linkGitHub='https://github.com/TristanLEROY/Soutenance_11'
           id='modalArgent'
@@ -24,7 +24,7 @@ export function Work() {
           img={Kasa}
           alt='Site Kasa'
           title='Kasa'
-          cardText='Site vitrine pour afficher des lieux de location de vacances.'
+          cardText='Site vitrine pour afficher des lieux de location pour les vacances.'
           badges={['React', 'Tailwind', 'Pnpm']}
           linkGitHub='https://github.com/TristanLEROY/Soutenance_8'
           id='modalKasa'

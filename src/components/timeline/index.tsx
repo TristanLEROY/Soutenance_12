@@ -8,7 +8,7 @@ export function Timeline() {
         <li>
           <div className='timeline-start timeline-box flex flex-col'>
             <span>Baccalauréat </span>
-            <span className='text-xs text-gray-400'>
+            <span className='text-xs text-gray-700'>
               Filiaire Scientifique spé SVT
             </span>
           </div>
@@ -46,7 +46,7 @@ export function Timeline() {
           </div>
           <div className='timeline-end timeline-box flex flex-col'>
             <span>Customer Coach </span>
-            <span className='text-xs text-gray-400'>
+            <span className='text-xs text-gray-700'>
               Gestion de demande Client
             </span>
           </div>
@@ -56,7 +56,7 @@ export function Timeline() {
           <hr />
           <div className='timeline-start timeline-box flex flex-col'>
             <span>Développeur Web </span>
-            <span className='text-xs text-gray-400'>
+            <span className='text-xs text-gray-700'>
               Reconversion via OpenClassrooms
             </span>
           </div>
